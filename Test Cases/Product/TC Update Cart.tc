@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC Update Cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8cfbf4d4-6670-4fe8-bfe6-4db7953b3095</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bb2ecf90-741b-4c31-bff9-cb1fa25245ed</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'10'</defaultValue>
+      <description></description>
+      <id>bb2ecf90-741b-4c31-bff9-cb1fa25245ed</id>
+      <masked>false</masked>
+      <name>amount</name>
+   </variable>
+</TestCaseEntity>

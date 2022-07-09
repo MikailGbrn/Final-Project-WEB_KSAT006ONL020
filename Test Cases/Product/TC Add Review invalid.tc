@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC Add Review invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>64a8a021-52ca-4ce9-92ac-1eda6f75544a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>18530567-81a1-4bb0-acaf-a74c3dbd349e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'mantappu!'</defaultValue>
+      <description></description>
+      <id>18530567-81a1-4bb0-acaf-a74c3dbd349e</id>
+      <masked>false</masked>
+      <name>komen</name>
+   </variable>
+</TestCaseEntity>
