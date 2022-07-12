@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: Gibran - TC Add to Cart
+Description: </description>
+   <name>WP-10 Gibran - TC Add to Cart</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10030&quot;:[],&quot;customfield_10018&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;PLUGIN_LICENSE_ERROR&quot;,&quot;message&quot;:&quot;The Parent Link is only available to Jira Premium users.&quot;}},&quot;customfield_10019&quot;:&quot;0|i0003z:&quot;},&quot;status&quot;:{&quot;id&quot;:10000,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://timbelajar2.atlassian.net/&quot;,&quot;self&quot;:&quot;https://timbelajar2.atlassian.net/rest/api/2/status/10000&quot;,&quot;name&quot;:&quot;To Do&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://timbelajar2.atlassian.net/rest/api/2/project/10000&quot;,&quot;key&quot;:&quot;WP&quot;,&quot;id&quot;:10000,&quot;name&quot;:&quot;Web Project&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;Gibran - TC Add to Cart&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;gibranlubis505@gmail.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;Mikail Gibran Fernanda Lubis&quot;,&quot;self&quot;:&quot;https://timbelajar2.atlassian.net/rest/api/2/user?accountId\u003d5e93da252b755a0c090f9a50&quot;},&quot;assignee&quot;:{&quot;emailAddress&quot;:&quot;gibranlubis505@gmail.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;Mikail Gibran Fernanda Lubis&quot;,&quot;self&quot;:&quot;https://timbelajar2.atlassian.net/rest/api/2/user?accountId\u003d5e93da252b755a0c090f9a50&quot;},&quot;priority&quot;:{&quot;id&quot;:3,&quot;self&quot;:&quot;https://timbelajar2.atlassian.net/rest/api/2/priority/3&quot;,&quot;name&quot;:&quot;Medium&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://timbelajar2.atlassian.net/rest/api/2/issue/WP-10/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://timbelajar2.atlassian.net/rest/api/2/issue/10019&quot;,&quot;key&quot;:&quot;WP-10&quot;,&quot;id&quot;:10019}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>46315bf3-358d-4bd1-bf16-d5d1f5bdbafa</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>em_Your review is awaiting approval</name>
+   <tag></tag>
+   <elementGuidId>cd0e0ad3-9dbd-4ff2-a1df-48f1c24fdfb5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='comment-19']/div/p/em</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>em.woocommerce-review__awaiting-approval</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>em</value>
+      <webElementGuid>de6236e5-f385-4348-8bba-3a0497e5b9d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-review__awaiting-approval</value>
+      <webElementGuid>6c422917-35b4-4d5c-bb6d-92c100e125af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+			Your review is awaiting approval		</value>
+      <webElementGuid>e87ab1ba-84b7-4781-a3c8-dcb57f010792</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;comment-19&quot;)/div[@class=&quot;comment-text&quot;]/p[@class=&quot;meta&quot;]/em[@class=&quot;woocommerce-review__awaiting-approval&quot;]</value>
+      <webElementGuid>308dc345-5fb9-4bec-94f5-52e214a1615c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='comment-19']/div/p/em</value>
+      <webElementGuid>575ea4e4-862c-4012-9fe2-eb2b19eb2b4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reviews'])[1]/following::em[1]</value>
+      <webElementGuid>0d371c8c-26a7-48b1-89c9-914a5fd92f50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel reply'])[1]/preceding::em[1]</value>
+      <webElementGuid>fd782412-5241-4ff6-a24a-569c13533f8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Your review is awaiting approval']/parent::*</value>
+      <webElementGuid>5103da0f-f15f-47a8-9db9-28fa56f3a2ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//em</value>
+      <webElementGuid>c02ed568-dcb0-4be3-815d-59bcbcef674f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//em[(text() = '
+			Your review is awaiting approval		' or . = '
+			Your review is awaiting approval		')]</value>
+      <webElementGuid>d75dfe5e-f458-444c-86e0-dc62ba877af6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
