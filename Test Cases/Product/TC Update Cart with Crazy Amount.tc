@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC Update Cart with Crazy Amount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>732f9111-d527-4344-af6f-8bf8204e3f5c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>77b4b72b-247e-4c9c-ba15-a098e0434643</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'100000000000000000000000000'</defaultValue>
+      <description></description>
+      <id>77b4b72b-247e-4c9c-ba15-a098e0434643</id>
+      <masked>false</masked>
+      <name>crazy_amount</name>
+   </variable>
+</TestCaseEntity>

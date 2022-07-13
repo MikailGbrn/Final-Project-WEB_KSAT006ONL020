@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC Add review valid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff843454-d97b-4bce-b57d-172bb02a3ea6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>80c5330d-119d-49ee-969e-87fa5aa80362</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>44e1ae21-bdb7-433e-be13-0c905446dfcb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>db460169-6611-40b8-ac65-45fd88716461</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'barang sangat bagus!'</defaultValue>
+      <description></description>
+      <id>80c5330d-119d-49ee-969e-87fa5aa80362</id>
+      <masked>false</masked>
+      <name>comment</name>
+   </variable>
+   <variable>
+      <defaultValue>'geeburan'</defaultValue>
+      <description></description>
+      <id>44e1ae21-bdb7-433e-be13-0c905446dfcb</id>
+      <masked>false</masked>
+      <name>author</name>
+   </variable>
+   <variable>
+      <defaultValue>'geeb@mail.com'</defaultValue>
+      <description></description>
+      <id>db460169-6611-40b8-ac65-45fd88716461</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>
